@@ -151,9 +151,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=minhphuong4203-bot&theme=juicyfresh&no-bg=true" />
 <br>
 <br>
-<p align = "center">
+<!-- <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+</p> -->
 <br>
 <br>
 <br>
